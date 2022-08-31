@@ -9,7 +9,7 @@
 **Results**
 ---
 - 1. because
-![retire_titles](https://courses.bootcampspot.com/courses/1897/files/1916465/preview)
+![retire_titles](![image](https://user-images.githubusercontent.com/108428454/187801831-f9e8bc2d-5ef1-46bc-8242-13d80978299b.png))
 
 - 2. However when we removed the 9th grade from our data frame, we found a big leap. The %Overall Passing fell by almost 25%.
 
